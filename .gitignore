@@ -1,0 +1,10 @@
+# Videos
+*.avi
+*.mp4
+
+#Word documents
+*.doc
+*.docx
+
+#Zip files
+*.zip
